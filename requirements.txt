@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+python-magic
+pdfminer.six
+python-docx
